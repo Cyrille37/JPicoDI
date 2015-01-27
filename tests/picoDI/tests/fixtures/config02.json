@@ -1,0 +1,10 @@
+[
+	{
+		"name":"Bidon02",
+		"class":"picoDI.tests.fixtures.Bidon02",
+		"params": [
+			"blabla",
+			123
+		]
+	}
+]
